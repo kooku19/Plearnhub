@@ -1,0 +1,26 @@
+.toolbar__title{
+    background-color: darkred;
+    color: white;
+
+}
+.tabbar{
+    background-color: darkred;
+    color: white;
+
+}
+
+#carousel {
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
+.img {
+    width: 100%;
+    height: 550px;
+}
+.img-detail {
+    width: 70%;
+    height: auto;
+    padding: 10px;
+}
